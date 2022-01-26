@@ -8,9 +8,9 @@
 
 ### [데이터베이스 개론](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156644316&orderClick=LEa&Kc=) (2022.01.11~)
 
-- 2022.01.19 ~ 2022.01.25
-- 5장 관계 데이터 모델 ~ 7장 데이터베이스 언어 SQL (6장 정리는 자율)
-- 2022.01.25(화) 스터디 진행 예정 
+- 2022.01.26 ~ 2022.02.08
+- 8장 데이터베이스 설계 ~ 11장 보안과 권한 관리
+- 2022.02.08(화) 스터디 진행 예정 
 
 
 
@@ -30,3 +30,4 @@
 
 ### [데이터베이스 개론](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156644316&orderClick=LEa&Kc=) (2022.01.11~)
 - 1주차(2022.01.11 ~ 2022.01.18) - 2장 데이터베이스 관리 시스템 ~ 4장 데이터 모델링
+- 2주차(2022.01.19 ~ 2022.01.25) - 5장 관계 데이터 모델 ~ 7장 데이터베이스 언어 SQL
